@@ -1,1 +1,1 @@
-# aiquest-ml-assignments
+Machine Learning Project
